@@ -10,12 +10,9 @@
 
 # production
 /storage
-# /vendor
 /bootstrap
-/vendor
 /bootstrap/
 /bootstrap/cache/
-vendor/
 public/storage/uploads/
 # misc
 .DS_Store
